@@ -1,0 +1,12 @@
+assets/**
+native-base-theme/**
+ios/**
+android/**
+node_modules/**
+metro.config.js
+plopfile.js
+babel.config.js
+web-build/**
+jest.config.js
+storybook/index.ts
+tests/mocks/*.*
